@@ -1,4 +1,7 @@
-## Calculate bbox for your geojson polygon feature
+## geojson-bbox
+
+- bbox of world boundary
+- calculate bbox using your geojson file
 
 ## World Boundary BBOX Data 
 Bbox for each country is listed here in [data](data/world-bbox.csv)
